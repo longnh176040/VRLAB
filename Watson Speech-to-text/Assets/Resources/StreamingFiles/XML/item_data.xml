@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<ItemDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ObjectList>
+    <ItemEntry>
+      <itemName>Bin</itemName>
+      <idx>0</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Alcohol Bottle</itemName>
+      <idx>1</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Headset</itemName>
+      <idx>2</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Gun</itemName>
+      <idx>3</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Trophy</itemName>
+      <idx>4</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Air Horn</itemName>
+      <idx>5</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Antlers</itemName>
+      <idx>6</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Bluetooth Headset</itemName>
+      <idx>7</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Identity Card</itemName>
+      <idx>8</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Nametag</itemName>
+      <idx>9</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Pen Pot</itemName>
+      <idx>10</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Clock</itemName>
+      <idx>11</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Magazine</itemName>
+      <idx>12</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Book Group</itemName>
+      <idx>13</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Book</itemName>
+      <idx>14</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Calculator</itemName>
+      <idx>15</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Can</itemName>
+      <idx>16</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>CD</itemName>
+      <idx>17</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Cellotape</itemName>
+      <idx>18</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Cellphone</itemName>
+      <idx>19</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Clipboard</itemName>
+      <idx>20</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Coffee Cup</itemName>
+      <idx>21</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Coffee Tray</itemName>
+      <idx>22</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Computer Monitor</itemName>
+      <idx>23</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Computer Mouse</itemName>
+      <idx>24</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Computer Tower</itemName>
+      <idx>25</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Console Playbox</itemName>
+      <idx>26</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Controller</itemName>
+      <idx>27</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Desk Fan</itemName>
+      <idx>28</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Desklamp</itemName>
+      <idx>29</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Eraser</itemName>
+      <idx>30</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Fax Machine</itemName>
+      <idx>31</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Flash Drive</itemName>
+      <idx>32</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Floppy Disk</itemName>
+      <idx>33</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Glass</itemName>
+      <idx>34</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Keyboard</itemName>
+      <idx>35</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Laptop</itemName>
+      <idx>36</idx>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Coffee Machine</itemName>
+      <idx>37</idx>
+    </ItemEntry>
+  </ObjectList>
+</ItemDatabase>

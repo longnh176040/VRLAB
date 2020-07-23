@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5344324009512891715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1597771330728431768}
+  - component: {fileID: 4916736646568117575}
+  m_Layer: 0
+  m_Name: Mecanim Event Detector
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1597771330728431768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5344324009512891715}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -11.580916, y: 1.1546401, z: 9.231371}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4916736646568117575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5344324009512891715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a6360a7e47ce34cb62999cd3a4f5ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - animatorController: {fileID: 9100000, guid: 0aee5a42c49f580488b9f7903851e439,
+      type: 2}
+    layer: 0
+    stateNameHash: -1570446806
+    events:
+    - functionName: HandColliderHandler
+      normalizedTime: 0.21193667
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+    - functionName: PlayingAudio
+      normalizedTime: 0.8
+      paramType: 4
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 1
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+  - animatorController: {fileID: 9100000, guid: 0aee5a42c49f580488b9f7903851e439,
+      type: 2}
+    layer: 0
+    stateNameHash: 1038453445
+    events:
+    - functionName: TakingItems
+      normalizedTime: 0.28
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+  - animatorController: {fileID: 9100000, guid: 0aee5a42c49f580488b9f7903851e439,
+      type: 2}
+    layer: 0
+    stateNameHash: -2010423537
+    events:
+    - functionName: RetakingItem
+      normalizedTime: 0.60048723
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+  - animatorController: {fileID: 9100000, guid: 3b4afc6a2a8108745b168565949f3672,
+      type: 2}
+    layer: 0
+    stateNameHash: -2010423537
+    events:
+    - functionName: BossMovement
+      normalizedTime: 0
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+    - functionName: RetakingItem
+      normalizedTime: 0.50182706
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+  - animatorController: {fileID: 9100000, guid: 3b4afc6a2a8108745b168565949f3672,
+      type: 2}
+    layer: 0
+    stateNameHash: 1637947677
+    events:
+    - functionName: TakingItems
+      normalizedTime: 0.28014615
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+    - functionName: StartPickingObject
+      normalizedTime: 0.40073082
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+  - animatorController: {fileID: 9100000, guid: 3b4afc6a2a8108745b168565949f3672,
+      type: 2}
+    layer: 0
+    stateNameHash: -1570446806
+    events:
+    - functionName: HandColliderHandler
+      normalizedTime: 0.22046284
+      paramType: 0
+      intParam: 0
+      floatParam: 0
+      stringParam: 
+      boolParam: 0
+      condition:
+        conditions: []
+      critical: 0
+      isEnable: 1
+  lastEdit: {fileID: 0}

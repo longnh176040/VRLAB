@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<SuggestionSpeech xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Scene1>
+    <Speech1>
+      <Suggestion1>
+        Good morning. Is this A Company?
+      </Suggestion1>
+    </Speech1>   
+    <Speech2>
+      <Suggestion1>
+        I have an interview with the sales manager at 10:00.
+      </Suggestion1>
+      <Suggestion2>
+        The sales manager and I have an interview at 10 o’clock.
+      </Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>My name is B</Suggestion1>
+      <Suggestion2>I'm B</Suggestion2>
+    </Speech3>
+  </Scene1>
+  <Scene2>
+    <Speech1>
+      <Suggestion1>Good morning, sir.</Suggestion1>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>I’m doing good. Thank you.</Suggestion1>
+      <Suggestion2>I’m fine. Thanks.</Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I was a student at HUST, and I just graduated with a Bachelor degree in Finance. I have been working part-time as a payroll clerk for the last two years.
+      </Suggestion1>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        The job should help me see what Finance is all about.
+      </Suggestion1>
+      <Suggestion2>
+        I have learned a lot of Finance theories at school, and now it is time for me to put them into practice.
+      </Suggestion2>
+      <Suggestion3>
+        I hope that it will help me grow in my field.
+      </Suggestion3>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        I am a hard-working person and a fast learner. I am very eager to learn, and I get along fine with people.
+      </Suggestion1>
+      <Suggestion2>
+        I think I’m a laborious and sociable person. I’m also enthusiastic to learn new thing. 
+      </Suggestion2>
+    </Speech5>
+    <Speech6>
+      <Suggestion1>No, I do not.</Suggestion1>
+      <Suggestion2>Yeah, of course I don’t mind.</Suggestion2>
+    </Speech6>
+    <Speech7>
+      <Suggestion1>
+        Yes, I can. When I was going to school, I took quite a few courses each semester while working at least twenty hours every week. And, I handled that situation very well.
+      </Suggestion1>
+    </Speech7>
+    <Speech8>
+      <Suggestion1>
+        No, I think I have a pretty good understanding of the job. I believe that I can handle it with ease, and I hope to have the opportunity to work for you.
+      </Suggestion1>
+      <Suggestion2>
+        No, I can totally seize the job. Based on my knowleadge and experience, I think I can easily handle the job. I hope to have the chance to work for you.
+      </Suggestion2>
+      <Suggestion3>
+        No, I think I fairly understand the job. If you give me a chance, I promise to go all out for the job.
+      </Suggestion3>
+    </Speech8>
+    <Speech9>
+      <Suggestion1>
+        Nice meeting you too. Thank you for seeing me.
+      </Suggestion1>
+      <Suggestion2>
+        Nice to meet you, too. Have a good day!
+      </Suggestion2>
+      <Suggestion3>
+        It’s nice meeting you, too. I’m really looking forward to hearing from you.
+      </Suggestion3>
+    </Speech9>
+  </Scene2>
+  <Scene3>
+    <Speech1>
+      <Suggestion1>
+        Good morning, Miss A. I’m a newcomer, and I’ve got a lot need to learn from you.
+      </Suggestion1>
+      <Suggestion2>
+        Good morning, Miss A. I’m really eager to learn new things.
+      </Suggestion2>
+      <Suggestion3>
+        Morning, Miss A. Could you please tell me what I am going to do this week ?
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Would you please tell me what is the particular work for me?
+      </Suggestion1>
+      <Suggestion2>
+        Would you please elaborate on that ?
+      </Suggestion2>
+      <Suggestion3>
+        What exactly I have to do ?
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Is there anything else I should do?
+      </Suggestion1>
+      <Suggestion2>
+        Anything else ?
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>OK.</Suggestion1>
+      <Suggestion2>
+        Oh yeah.
+      </Suggestion2>
+      <Suggestion3>
+        Yeah, thank you.
+      </Suggestion3>
+    </Speech4>
+  </Scene3>
+  <Scene4>
+    <Speech1>
+      <Suggestion1>Yes. I’m B.</Suggestion1>
+      <Suggestion2>Hi A. My name is B.</Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Thanks, you’re so thoughful.
+      </Suggestion1>
+      <Suggestion2>
+        How considerate you are !
+      </Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I’m new to the working world and would appreciate your help.
+      </Suggestion1>
+      <Suggestion2>
+        Thank you so much. I’m really appreciate your help.
+      </Suggestion2>
+    </Speech3>
+  </Scene4>
+  <Scene5>
+    <Speech1>
+      <Suggestion1>
+        Good morning! You are so early today!
+      </Suggestion1>
+      <Suggestion2>
+        Good morning! You didn’t catch in a traffic jam, did you?
+      </Suggestion2>
+      <Suggestion3>
+        Good morning! It’s nice to see you early this morning!
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        How long does it take you to reach the office everyday?
+      </Suggestion1>
+      <Suggestion2>
+        How long do you spend reaching the office everyday?
+      </Suggestion2>
+      <Suggestion3>
+        Do you spend much time reaching the office everyday?
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Wow, that’s quite a long journey. Do you drive a car?
+      </Suggestion1>
+      <Suggestion2>
+        Wow, I thought you lived near the office. You go to work by car, right?
+      </Suggestion2>
+      <Suggestion3>
+        Oh! It’s quite tough for you to reach the office everday when you live so far. You drive a car, right?
+      </Suggestion3>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        You are right! But I get up a little late. That gives me no other option but to travel by scooter.
+      </Suggestion1>
+      <Suggestion2>
+        Can’t agree more. I think public bus is the best choice.
+      </Suggestion2>
+      <Suggestion3>
+        Right! But in my opinion, driving by car is more convenient.
+      </Suggestion3>
+    </Speech4>
+  </Scene5>
+  <Scene6>
+    <Speech1>
+      <Suggestion1>
+        Okay. I’m hungry.
+      </Suggestion1>
+      <Suggestion2>
+        Yeah. I’m starving.
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        How about going out for lunch?
+      </Suggestion1>
+      <Suggestion2>
+        I suggest going out for lunch.
+      </Suggestion2>
+      <Suggestion3>
+        Let’s go out for lunch.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Let’s go to the food stall. There’s a good one just around the corner. Everything looks tempting.
+      </Suggestion1>
+      <Suggestion2>
+        Do you want to go to the fast-food restaurant near our office? The food is so delicious and the price is affordable.
+      </Suggestion2>
+      <Suggestion3>
+        I know a restaurant near our office. It has lots of dishes that you can choose.
+      </Suggestion3>
+    </Speech3>
+  </Scene6>
+  <Scene7>
+    <Speech1>
+      <Suggestion1>
+        I think so. Where are you going?
+      </Suggestion1>
+      <Suggestion2>
+        Sure. Where’re you going?
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Will you come back this afternoon?
+      </Suggestion1>
+      <Suggestion2>
+        When will you come back?
+      </Suggestion2>
+      <Suggestion3>
+        For how long?
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Ok! Don’t worry. I’ll take care of the bussiness for you.
+      </Suggestion1>
+      <Suggestion2>
+        Ok. Let me take over your work.
+      </Suggestion2>
+    </Speech3>
+  </Scene7>
+  <Scene8>
+    <Speech1>
+      <Suggestion1>
+        Hello, sir.
+      </Suggestion1>
+      <Suggestion2>
+        Good morning, sir.
+      </Suggestion2>
+      <Suggestion3>
+        How do you do?
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Are you Mr.A from A Company?
+      </Suggestion1>
+      <Suggestion2>
+        Are you from A Company? Mr.A, right?
+      </Suggestion2>
+      <Suggestion3>
+        I am really pleased to meet you today, Mr.A!
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Yes. I represent our company to meet you and give you an introduction about our products.
+      </Suggestion1>
+      <Suggestion2>
+        Yes. On behalf of my company, I’ll give you a brief about our products.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        We’ll start with an orientation video. It runs about 20 minutes.
+      </Suggestion1>
+      <Suggestion2>
+        Yeah. Let’s start with a 20-minute-video.
+      </Suggestion2>
+      <Suggestion3>
+        Let get started with an video, which runs about 20 minutes.
+      </Suggestion3>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        We have some reports to show you the background information.
+      </Suggestion1>
+      <Suggestion2>
+        Yes, we also present you some reports about the background information.
+      </Suggestion2>
+    </Speech5>
+  </Scene8>
+  <Scene9>
+    <Speech1>
+      <Suggestion1>
+        My dear colleague, we have a new project to do.
+      </Suggestion1>
+      <Suggestion2>
+        Guys, there’s a new project for us to do.
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        The four of us are supposed to be working as a team on this project.
+      </Suggestion1>
+      <Suggestion2>
+        Four of us will be on a team for this project.
+      </Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I agree with you definitely. That is why I prefer it to working independently.
+      </Suggestion1>
+      <Suggestion2>
+        I endorse with you. I also love teamworking.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        We will have a small meeting to allocate task.
+      </Suggestion1>
+      <Suggestion2>
+        We are having a meeting to assign the work.
+      </Suggestion2>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        How about 2 o’clock this afternoon ?
+      </Suggestion1>
+      <Suggestion2>
+        Is it possible to have the meeting at 2 o’clock this afternoon ?
+      </Suggestion2>
+    </Speech5>
+  </Scene9>
+  <Scene10>
+    <Speech1>
+      <Suggestion1>
+        Why don’t we leave it for tomorrow?
+      </Suggestion1>
+      <Suggestion2>
+        Let just leave it for tomorrow.
+      </Suggestion2>
+      <Suggestion3>
+        How about leave it for tomorrow ?
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Do you often work overtime ?
+      </Suggestion1>
+      <Suggestion2>
+        How often do you work overtime ?
+      </Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Don’t you get very tired after a while?
+      </Suggestion1>
+      <Suggestion2>
+        Have you ever felt exhausted after a while ?
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        By the way, do we get overtime pay?
+      </Suggestion1>
+      <Suggestion2>
+        Do we get paid for overtime working ?
+      </Suggestion2>
+      <Suggestion3>
+        We will get extra paid from this, won't we ?
+      </Suggestion3>
+    </Speech4>
+  </Scene10>
+  <Scene11>
+    <Speech1>
+      <Suggestion1>
+        Me too, I’m beat.
+      </Suggestion1>
+      <Suggestion2>
+        Yeah, It has been a long day.
+      </Suggestion2>
+      <Suggestion3>
+        Me too. We’ve been working hard all day.
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Is 7:30 okay?
+      </Suggestion1>
+      <Suggestion2>
+        I prefer 7:30.
+      </Suggestion2>
+      <Suggestion3>
+        7:30 seems good to me.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        How about 8:30?
+      </Suggestion1>
+      <Suggestion2>
+        We can meet at 8:30 if you want.
+      </Suggestion2>
+      <Suggestion3>
+        Do you want to meet at 8:30?
+      </Suggestion3>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        OK! See you then.
+      </Suggestion1>
+      <Suggestion2>
+        OK, bye! Talk to you later.
+      </Suggestion2>
+      <Suggestion3>
+        Great! See you! Have a good night!
+      </Suggestion3>
+    </Speech4>
+  </Scene11>
+  <Scene12>
+    <Speech1>
+      <Suggestion1>
+        Mr.A, is it convenient for you to talk with me?
+      </Suggestion1>
+      <Suggestion2>
+        Good morning, Mr.A. Do you have time for a talk ?
+      </Suggestion2>
+      <Suggestion3>
+        Hello, Mr.A. Can we talk for a minute?
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        I wonder to know your opinion about my work in these two years.
+      </Suggestion1>
+      <Suggestion2>
+        What do you think about my work performance in two years?
+      </Suggestion2>
+      <Suggestion3>
+        Can you put some comments on my work performance ?
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Based on the annual evaluation, should I ask for a pay raise?
+      </Suggestion1>
+      <Suggestion2>
+        According to the annual evaluation criteria, am I eligible for a pay raise ?
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        But I’ve already submitted it to the personnel department.
+      </Suggestion1>
+      <Suggestion2>
+        Actually, I’ve already handed it in to the personnel department.
+      </Suggestion2>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        That will be good.
+      </Suggestion1>
+      <Suggestion2>
+        Yes, thank you.
+      </Suggestion2>
+    </Speech5>
+  </Scene12>
+  <Scene13>
+    <Speech1>
+      <Suggestion1>
+        Happy birthday, A! 
+      </Suggestion1>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        I have a gift for you.
+      </Suggestion1>
+      <Suggestion2>
+        This is my present for you.
+      </Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I hope all your birthday wishes and dreams come true.
+      </Suggestion1>
+      <Suggestion2>
+        I hope your birthday is beautiful and you get more than half of what you want!
+      </Suggestion2>
+    </Speech3>
+  </Scene13>
+  <Scene14>
+    <Speech1>
+      <Suggestion1>
+        Mr.A, I have something to tell you.
+      </Suggestion1>
+      <Suggestion2>
+        Mr.A, I want to talk to you for a while. Do you have time ?
+      </Suggestion2>
+      <Suggestion3>
+        Mr.A, I always like to get to the point, and I’m not going to beat around the bush.
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Frankly speaking, I’m not very pleased with my job now.
+      </Suggestion1>
+      <Suggestion2>
+        To be honest, I’m not contented with my current job.
+      </Suggestion2>
+      <Suggestion3>
+        Straight from the shoulder, I’m dissatisfied with my job.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I have found that the colleagues of mine were not easy to work with, and what I do seems so boring.
+      </Suggestion1>
+      <Suggestion2>
+        It is difficult for me to get on well with my fellows, and I’m not very interested in what I do also.
+      </Suggestion2>
+      <Suggestion3>
+        Almost my colleagues are dead wood, and my work doesn’t offer much job satisfaction.
+      </Suggestion3>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        Yes, so I want to work somewhere else. I mean a different sort of job.
+      </Suggestion1>
+      <Suggestion2>
+        Yes, of course. Therefore, I desire to change my position to a different kind of job.
+      </Suggestion2>
+    </Speech4>
+  </Scene14>
+  <Scene15>
+    <Speech1>
+      <Suggestion1>
+        Mr.A, Do you have a minute?
+      </Suggestion1>
+      <Suggestion2>
+        Mr.	A, I want to talk to you for a minute.
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        My dad is in hospital. I’d like to ask one-week off to take care of him.
+      </Suggestion1>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I don’t know. The doctor asked him to be in hospital and have more check-ups.
+      </Suggestion1>
+      <Suggestion2>
+        I’m not sure, but he is asked to stay in hospital to have regular check-ups.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        I hope so. I’m impatient to go back.
+      </Suggestion1>
+      <Suggestion2>
+        Hope so. I’ve got to go back.
+      </Suggestion2>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        You are so considerate.
+      </Suggestion1>
+      <Suggestion2>
+        How thoughtful you are!
+      </Suggestion2>
+      <Suggestion3>
+        What a very kind of you!
+      </Suggestion3>
+    </Speech5>
+  </Scene15>
+  <Scene16>
+    <Speech1>
+      <Suggestion1>
+        Actually it was really a challenge to me.
+      </Suggestion1>
+      <Suggestion2>
+        Thank you for saying so. It is not really difficult as you think.
+      </Suggestion2>
+      <Suggestion3>
+        You flatter me.
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        If not having the support from you I couldn’t have got the achievement.
+      </Suggestion1>
+      <Suggestion2>
+        Yeah, I spent a lot of time on this project.
+      </Suggestion2>
+      <Suggestion3>
+        I’m just trying to finish my job.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I would appriciate that.
+      </Suggestion1>
+      <Suggestion2>
+        Oh really? You make my day.
+      </Suggestion2>
+      <Suggestion3>
+        Yeah, I deserve it.
+      </Suggestion3>
+    </Speech3>
+  </Scene16>
+  <Scene17>
+    <Speech1>
+      <Suggestion1>
+        Mr.A, how about your visit?
+      </Suggestion1>
+      <Suggestion2>
+        Good morning, Mr.A, how was your visit going?
+      </Suggestion2>
+      <Suggestion3>
+        Morning, sir. How do you feel about your trip lastweek?
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        Great!
+      </Suggestion1>
+      <Suggestion2>
+        Congratulation, sir.
+      </Suggestion2>
+      <Suggestion3>
+        Well done, sir.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        You are exaggerating.
+      </Suggestion1>
+      <Suggestion2>
+        You are overating me, sir
+      </Suggestion2>
+      <Suggestion3>
+        Isn’t it too much, sir ?
+      </Suggestion3>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        I’m really glad to hear these.
+      </Suggestion1>
+      <Suggestion2>
+        It’s very kind of you to say so.
+      </Suggestion2>
+      <Suggestion3>
+        Thank you, sir.
+      </Suggestion3>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        I will treasure the opportunity.
+      </Suggestion1>
+      <Suggestion2>
+        I will be grateful to it, sir.
+      </Suggestion2>
+      <Suggestion3>
+        Thank you for your trust, sir.
+      </Suggestion3>
+    </Speech5>
+  </Scene17>
+  <Scene18>
+    <Speech1>
+      <Suggestion1>
+        Thank you.
+      </Suggestion1>
+      <Suggestion2>
+        You’re so kind. Thanks.
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        I’m in charge of the marketing department.
+      </Suggestion1>
+      <Suggestion2>
+        I will take over the ….
+      </Suggestion2>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        You are kidding again.
+      </Suggestion1>
+      <Suggestion2>
+        You must be kidding.
+      </Suggestion2>
+      <Suggestion3>
+        You flatter me.
+      </Suggestion3>
+    </Speech3>
+  </Scene18>
+  <Scene19>
+    <Speech1>
+      <Suggestion1>
+        Give me that.
+      </Suggestion1>
+      <Suggestion2>
+        OK. Let me see.
+      </Suggestion2>
+      <Suggestion3>
+        May I go over the sheet right now ?
+      </Suggestion3>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        I think your prices are much too high.
+      </Suggestion1>
+      <Suggestion2>
+        The prices are unaffordable.
+      </Suggestion2>
+      <Suggestion3>
+        What? How can you come up with this price ?
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        Honestly speaking, we've consulted the prices from other companies, we only ask that your prices be comparable to others.
+      </Suggestion1>
+      <Suggestion2>
+        Frankly speaking, your prices are higher than that of other companies.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        How much do you mean then?
+      </Suggestion1>
+      <Suggestion2>
+        Cheaper, please.
+      </Suggestion2>
+      <Suggestion3>
+        Are there any promotions?
+      </Suggestion3>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        I see. I will call my home office and see what they say.
+      </Suggestion1>
+      <Suggestion2>
+        I will consider and discuss with my home office.
+      </Suggestion2>
+      <Suggestion3>
+        Thank you. Let me consider and we’ll discuss about it at the next time we meet.
+      </Suggestion3>
+    </Speech5>
+  </Scene19>
+  <Scene20>
+    <Speech1>
+      <Suggestion1>
+        Glad to meet you A.
+      </Suggestion1>
+      <Suggestion2>
+        How’re you doing today?
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        We need those items urgently. I thought if I met with you face-to-face, it would expedite the process.
+      </Suggestion1>
+      <Suggestion2>
+        We really need those items for production. May I see you to expedite the process ?
+      </Suggestion2>
+      <Suggestion3>
+        We’re running out of those items. Can we meet face-to-face for an effective conversation ?
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        We want to order 44 500 sets.
+      </Suggestion1>
+      <Suggestion2>
+        I want 44500 sets.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        The price you quoted me is $100 per set.
+      </Suggestion1>
+      <Suggestion2>
+        It’s $100 per set.
+      </Suggestion2>
+      <Suggestion3>
+        $100, I guess.
+      </Suggestion3>
+    </Speech4>
+    <Speech5>
+      <Suggestion1>
+        We'll arrange delivery immediately.
+      </Suggestion1>
+      <Suggestion2>
+        I agree with that price.
+      </Suggestion2>
+      <Suggestion3>
+        OK, deal !
+      </Suggestion3>
+    </Speech5>
+  </Scene20>
+  <Scene21>
+    <Speech1>
+      <Suggestion1>
+        Excuse me. May I come in?
+      </Suggestion1>
+      <Suggestion2>
+        Good afternoon, Mr.A. May I come in?
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        I’ve made a tough decision, Mr.A. Here is my resignation.
+      </Suggestion1>
+      <Suggestion2>
+        I know it’s a little sudden, but here is my resignation.
+      </Suggestion2>
+      <Suggestion3>
+        Mr.A, I decided to resign, and I want you to accept my request of resignation.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I’ve been trying, but I don’t think I’m up to this job.
+      </Suggestion1>
+      <Suggestion2>
+        After a while of working here, I realize that I’m not fit into this job.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        Yes, it is my decision after deep consideration.
+      </Suggestion1>
+      <Suggestion2>
+        Yes, I came to this determination after careful deliberation.
+      </Suggestion2>
+    </Speech4>
+  </Scene21>
+  <Scene22>
+    <Speech1>
+      <Suggestion1>
+        Yes, I handed in my letter of resignation yesterday.
+      </Suggestion1>
+      <Suggestion2>
+        Yes, my resignation letter was just handed in yesterday.
+      </Suggestion2>
+    </Speech1>
+    <Speech2>
+      <Suggestion1>
+        I’ve already been here for too long. I think it’s time to move on.
+      </Suggestion1>
+      <Suggestion2>
+        I just want to try others kind of occupations.
+      </Suggestion2>
+      <Suggestion3>
+        This work didn’t offer much job satisfaction. So I decided to leave.
+      </Suggestion3>
+    </Speech2>
+    <Speech3>
+      <Suggestion1>
+        I will go to X Company.
+      </Suggestion1>
+      <Suggestion2>
+        I haven’t decided yet.
+      </Suggestion2>
+    </Speech3>
+    <Speech4>
+      <Suggestion1>
+        Yeah, I will.
+      </Suggestion1>
+      <Suggestion2>
+        Absolutely!
+      </Suggestion2>
+    </Speech4>
+  </Scene22>
+</SuggestionSpeech>

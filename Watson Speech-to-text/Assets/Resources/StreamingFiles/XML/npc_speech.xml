@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<NPCSpeech xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Scene1>
+    <Speech0>
+      Good morning. How can I help you?
+    </Speech0>
+    <Speech1>
+      Yes, it is.
+    </Speech1>
+    <Speech2>
+      May I have your name, please?
+    </Speech2>
+    <Speech3>
+      Ah yes, Mr.B. Please take a seat and wait a moment. I’ll tell the manager secrectary, he will come down soon.
+    </Speech3>
+  </Scene1>
+  <Scene2>
+    <Speech0>
+      Good morning, B. I’m A – Sales Manager of A Company.
+    </Speech0>
+    <Speech1>
+      How're you doing?
+    </Speech1>
+    <Speech2>
+      That’s good. Let’s start the interview. First of all, tell me a little bit about yourself.
+    </Speech2>
+    <Speech3>
+      What are you looking for in a job?
+    </Speech3>
+    <Speech4>
+      What are your strengths? Why should I hire you?
+    </Speech4>
+    <Speech5>
+      OK. Now, let me ask you a few quick questions. You do not mind working long hours, do you?
+    </Speech5>
+    <Speech6>
+      Can you handle pressure?
+    </Speech6>
+    <Speech7>
+      Do you still have any questions for me?
+    </Speech7>
+    <Speech8>
+      B, nice to meet you. Thank you for coming. We’ll send the interview result via email.
+    </Speech8>
+    <Speech9>
+      Have a good day !
+    </Speech9>
+  </Scene2>
+  <Scene3>
+    <Speech0>
+      Good morning. This is the first day for you to work here. I hope you’ll like your job.
+    </Speech0>
+    <Speech1>
+      You’ll spend most of this week to be familiar with all the work in the office.
+    </Speech1>
+    <Speech2>
+      The main duty is to keep the file in order.
+    </Speech2>
+    <Speech3>
+      And you are responsible for answering the calls, then transferring or taking messages.
+    </Speech3>
+    <Speech4>
+      If you have any question, you can ask me at anytime.
+    </Speech4>
+  </Scene3>
+  <Scene4>
+    <Speech0>
+      Hi, there. My name is A. You’re new around here?
+    </Speech0>
+    <Speech1>
+      Welcome aboard! This is your seat. Some office supplies have been prepared.
+    </Speech1>
+    <Speech2>
+      If there’s anything I can do for you, let me know.
+    </Speech2>
+    <Speech3>
+      That’s all right. I’ll try my best.
+    </Speech3>
+  </Scene4>
+  <Scene5>
+    <Speech0>
+      Good morning!
+    </Speech0>
+    <Speech1>
+      Yes, traffic wasn’t much today, so I made it to the office earlier.
+    </Speech1>
+    <Speech2>
+      Well, about an hour or so.
+    </Speech2>
+    <Speech3>
+      No, I take a public bus. It’s safer.
+    </Speech3>
+    <Speech4>
+      It really depends.
+    </Speech4>
+  </Scene5>
+  <Scene6>
+    <Speech0>
+      It’s time for lunch. Let’s go grab some food.
+    </Speech0>
+    <Speech1>
+      Where do you want to go for lunch? I’m bored of the canteen.
+    </Speech1>
+    <Speech2>
+      OK. But where shall we have lunch?
+    </Speech2>
+    <Speech3>
+      That’s sound good! Let’s go.
+    </Speech3>
+  </Scene6>
+  <Scene7>
+    <Speech0>
+      Can you cover me for a while?
+    </Speech0>
+    <Speech1>
+      I’m going to the post.
+    </Speech1>
+    <Speech2>
+      I’ll come back as soon as possible.
+    </Speech2>
+    <Speech3>
+      Thank you so much !
+    </Speech3>
+  </Scene7>
+  <Scene8>
+    <Speech0>
+      How do you do?
+    </Speech0>
+    <Speech1>
+      Yes, it’s me. And you must be B?
+    </Speech1>
+    <Speech2>
+      Well, let’s start.
+    </Speech2>
+    <Speech3>
+      Anything else?
+    </Speech3>
+    <Speech4>
+      Great! Let me take a quick look.
+    </Speech4>
+  </Scene8>
+  <Scene9>
+    <Speech0>
+      Hey, is there anything news from the meeting ?
+    </Speech0>
+    <Speech1>
+      How many people will be charge in this project?
+    </Speech1>
+    <Speech2>
+      Great! I like the teamwork, all of us can make the most of ourselves. In that way, new idea will explode.
+    </Speech2>
+    <Speech3>
+      What’s the first step?
+    </Speech3>
+    <Speech4>
+      But C and D are absent now.
+    </Speech4>
+    <Speech5>
+      Ok. I will inform them.
+    </Speech5>
+  </Scene9>
+  <Scene10>
+    <Speech0>
+      We have to work overtime today.
+    </Speech0>
+    <Speech1>
+      Today is the deadline. Let’s get it done even if we have to stay up all night.
+    </Speech1>
+    <Speech2>
+      Yes, about twice a month.
+    </Speech2>
+    <Speech3>
+      I’ve been accustomed to it.
+    </Speech3>
+    <Speech4>
+      Of course, it’s 1.5 times for workday overtime, and 2 times for weekends.
+    </Speech4>
+  </Scene10>
+  <Scene11>
+    <Speech0>
+      Well, I think it is time to call it a day.
+    </Speech0>
+    <Speech1>
+      What time do you want to meet tomorrow morning?
+    </Speech1>
+    <Speech2>
+      Oh, no. It’s too early.
+    </Speech2>
+    <Speech3>
+      Yeah that’s great for me.
+    </Speech3>
+  </Scene11>
+  <Scene12>
+    <Speech0>
+      Yes, come in and sit down.
+    </Speech0>
+    <Speech1>
+      I’ve been paying attention to your performance since last year and I’m really impressed. You have done a perfect job and your project made mych profit for the company.
+    </Speech1>
+    <Speech2>
+      Sure. I will inform the general manager about this with your application.
+    </Speech2>
+    <Speech3>
+      OK. I estimate that your monthly gross salary will increase by 1,000 dollars.
+    </Speech3>
+  </Scene12>
+  <Scene13>
+    <Speech0>
+      Thanks!
+    </Speech0>
+    <Speech1>
+      I’m too happy to say any word to you.
+    </Speech1>
+    <Speech2>
+      Ok. Thank you very much.
+    </Speech2>
+  </Scene13>
+  <Scene14>
+    <Speech0>
+      Yes, please.
+    </Speech0>
+    <Speech1>
+      Really? Why do you think like that?
+    </Speech1>
+    <Speech2>
+      Have you been doing your best?
+    </Speech2>
+    <Speech3>
+      I think I understand how you feel. I’m glad you told me. I will try to fit you in somewhere else.
+    </Speech3>
+  </Scene14>
+  <Scene15>
+    <Speech0>
+      Yes, what’s up?
+    </Speech0>
+    <Speech1>
+      I’m sorry to hear that. Is that serious?
+    </Speech1>
+    <Speech2>
+      Don’t worry. It maybe a routine medical examination.
+    </Speech2>
+    <Speech3>
+      Take it easy. I will arrange someone to take over your job.
+    </Speech3>
+    <Speech4>
+      Wish your dad would get well soon.
+    </Speech4>
+  </Scene15>
+  <Scene16>
+    <Speech0>
+      B, you really did a good job this time.
+    </Speech0>
+    <Speech1>
+      Your project made much profit for the company.
+    </Speech1>
+    <Speech2>
+      The board decided to give you a bonus.
+    </Speech2>
+    <Speech3>
+      Congratulation !
+    </Speech3>
+  </Scene16>
+  <Scene17>
+    <Speech0>
+      My visit has proved to be a fruitful one.
+    </Speech0>
+    <Speech1>
+      I think half of the credit should go to you.
+    </Speech1>
+    <Speech2>
+      You work with high efficiency. Never did I expect you to finish it in such a short time.
+    </Speech2>
+    <Speech3>
+      I will recommend you as the marketing manager.
+    </Speech3>
+    <Speech4>
+      I’m sure you will do better than the current manager.
+    </Speech4>
+  </Scene17>
+  <Scene18>
+    <Speech0>
+      I’m so happy to hear about your promotion. Congratulations.
+    </Speech0>
+    <Speech1>
+      What are your responsibilities with this new position?
+    </Speech1>
+    <Speech2>
+      So I should call you marketing manager from now on.
+    </Speech2>
+    <Speech3>
+      By the way, you are efficient. You deserve it.
+    </Speech3>
+  </Scene18>
+  <Scene19>
+    <Speech0>
+      Here is our price sheet.
+    </Speech0>
+    <Speech1>
+      Sure, take your time.
+    </Speech1>
+    <Speech2>
+      You know that the cost of production has been skyrocketing in recent years.
+    </Speech2>
+    <Speech3>
+      Well, we can consider making some concessions in our prices.
+    </Speech3>
+    <Speech4>
+      To get the business done, we can reduce our prices by 5% .
+    </Speech4>
+    <Speech5>
+      Yes, sir. Please take our offer to consideration. I hope we will have the opportunity to cooperate.
+    </Speech5>
+  </Scene19>
+  <Scene20>
+    <Speech0>
+      Good morning mr.B !
+    </Speech0>
+    <Speech1>
+      I'm really glad that you can meet me today to discuss the details of the order.
+    </Speech1>
+    <Speech2>
+      Which model do you want to order and how many?
+    </Speech2>
+    <Speech3>
+      Okay. Do you know our quoted price?
+    </Speech3>
+    <Speech4>
+      That's correct.
+    </Speech4>
+    <Speech5>
+      Perfect !!
+    </Speech5>
+  </Scene20>
+  <Scene21>
+    <Speech0>
+      Yes, please.
+    </Speech0>
+    <Speech1>
+      Could you tell me why you made the decision ?
+    </Speech1>
+    <Speech2>
+      Are you certain? Your achievements were proved to be one of the best ones in this company. 
+    </Speech2>
+    <Speech3>
+      OK. I will take your paper to consideration. Good luck! 
+    </Speech3>
+  </Scene21>
+  <Scene22>
+    <Speech0>
+      B, I’ve heard you want to quit.
+    </Speech0>
+    <Speech1>
+      Could I ask why you want to quit?
+    </Speech1>
+    <Speech2>
+      Where do you want to go?
+    </Speech2>
+    <Speech3>
+      Please still stay in touch with us.
+    </Speech3>
+    <Speech4>
+      ...
+    </Speech4>
+  </Scene22>
+</NPCSpeech>
