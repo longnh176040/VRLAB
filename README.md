@@ -29,10 +29,11 @@ Based on the above reality, our team offers a solution that is to learn English 
 * [Text to speech](https://cloud.ibm.com/catalog/services/text-to-speech)
 * [spaCy](https://spacy.io/)
 
-## Authors
+## Authors - Contact for work
 * **Long Nguyen Hoang**
   * Facebook: [Nguyễn Hoàng Long](https://www.facebook.com/profile.php?id=100005937633406)
   * Email: long.nh176040@sis.hust.edu.vn
 * **Canh Nguyen Hoang**
   * Facebook: [Nguyễn Hoàng Cảnh](https://www.facebook.com/canhchn64/)
-  * Email: https://www.facebook.com/canhchn64/
+  * Email: canh.nh175929@sis.hust.edu.vn
+
