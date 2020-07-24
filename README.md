@@ -23,15 +23,16 @@ Based on the above reality, our team offers a solution that is to learn English 
 ![](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.15752-9/111395740_1173499922984139_7154767004206740784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=st551fHKP8EAX94Nzzn&_nc_ht=scontent.fhan2-2.fna&oh=c1bc335c8ec823a66c797f538cba5799&oe=5F3EC37C)
 
 ## Built with
-[Unity](https://unity.com/)
-[Speech to text](https://cloud.ibm.com/catalog/services/speech-to-text)
-[Text to speech](https://cloud.ibm.com/catalog/services/text-to-speech)
-[spaCy](https://spacy.io/)
+* [Unity](https://unity.com/)
+* [Oculus](https://www.oculus.com/)
+* [Speech to text](https://cloud.ibm.com/catalog/services/speech-to-text)
+* [Text to speech](https://cloud.ibm.com/catalog/services/text-to-speech)
+* [spaCy](https://spacy.io/)
 
 ## Authors
 * **Long Nguyen Hoang**
- * Facebook: [Nguyễn Hoàng Long](https://www.facebook.com/profile.php?id=100005937633406)
- * Email: long.nh176040@sis.hust.edu.vn
+  * Facebook: [Nguyễn Hoàng Long](https://www.facebook.com/profile.php?id=100005937633406)
+  * Email: long.nh176040@sis.hust.edu.vn
 * **Canh Nguyen Hoang**
- * Facebook: [Nguyễn Hoàng Cảnh](https://www.facebook.com/canhchn64/)
- * Email: https://www.facebook.com/canhchn64/
+  * Facebook: [Nguyễn Hoàng Cảnh](https://www.facebook.com/canhchn64/)
+  * Email: https://www.facebook.com/canhchn64/
