@@ -33,7 +33,9 @@ Based on the above reality, our team offers a solution that is to learn English 
 * **Long Nguyen Hoang**
   * Facebook: [Nguyễn Hoàng Long](https://www.facebook.com/profile.php?id=100005937633406)
   * Email: long.nh176040@sis.hust.edu.vn
+  * Work with Unity, Oculus...
 * **Canh Nguyen Hoang**
   * Facebook: [Nguyễn Hoàng Cảnh](https://www.facebook.com/canhchn64/)
   * Email: canh.nh175929@sis.hust.edu.vn
+  * Work with Web Client, web server...
 
